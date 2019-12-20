@@ -34,3 +34,4 @@ int main()
 	}
 	return 0;
 }
+https://github.com/nirpython/C/blob/master/20-12-2019-checkpoint.ipynb
